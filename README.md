@@ -8,4 +8,6 @@ I'm migrating from Graphic Design to the Web Development area; I adapted my prev
 .
 </div>
 
+![snake gif](https://github.com/owendellmends/owendellmends/blob/output/github-contribution-grid-snake.svg)
+
 
