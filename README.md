@@ -15,6 +15,9 @@ I'm migrating from Graphic Design to the Web Development area; I adapted my prev
 .
 </div>
 
+<div align="center">
+  
 ![snake gif](https://github.com/owendellmends/owendellmends/blob/output/github-contribution-grid-snake.svg)
 
+ </div>
 
