@@ -16,13 +16,6 @@ I'm migrating from Graphic Design to the Web Development area; I adapted my prev
 </div>
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=owendellmends&hide=stars&show_icons=true&theme=red&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owendellmends&count_private=true&theme=red">
-
-</div>
-<div align="center">
-<!-- Cobrinha -->
-  
 ![snake gif](https://github.com/owendellmends/owendellmends/blob/output/github-contribution-grid-snake.svg)
 
  </div>
