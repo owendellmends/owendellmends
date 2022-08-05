@@ -12,11 +12,4 @@
 ### 👋 Hello, World! I'm Wendell Mendes.
 
 I'm migrating from Graphic Design to the Web Development area; I adapted my previous experience to the study of UI/UX Design. And in order to bring my prototypes to life, I'm currently studying Frontend - HTML, CSS and JavaScript.<br>
-.
 </div>
-<div align="center">
-  
-![snake gif](https://github.com/owendellmends/owendellmends/blob/output/github-contribution-grid-snake.svg)
-
- </div>
-
